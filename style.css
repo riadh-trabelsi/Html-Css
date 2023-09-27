@@ -25,6 +25,9 @@ a:hover {
 a:visited {
     color: blueviolet;
 }
+body{
+    font-family: 'open sans',sans-serif;
+}
 body {
     max-width: 90%;
     margin-left: 20px;
