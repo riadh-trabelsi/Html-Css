@@ -1,0 +1,56 @@
+#man {
+    width: 300px;
+}
+#jupiter{
+    width: 300px;
+}
+#old-chinese {
+    width: 300px;
+}
+p
+ {
+    font-family: serif;
+    line-height: 1.5;
+    font-size:large;
+    color: rgb(14, 9, 85);
+}
+a {
+    color:rgb(212, 24, 24);
+text-decoration: none;
+font-weight: bold;
+}
+a:hover {
+    color: aqua;
+}
+a:visited {
+    color: blueviolet;
+}
+body {
+    max-width: 90%;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+body {
+    background-color: rgb(14, 53, 53);
+}
+.quotes-container {
+    max-width: 50%; 
+    margin: 80px auto; 
+    padding: 20px; 
+    background-color: #f5f5f5; 
+}
+.quote {
+    font-size: 160%;
+    border-left: 3px solid Firebrick; 
+    padding-left: 30px; 
+    margin: 30px 0; 
+ 
+    
+}
+body {
+    background-image: url('https://tse2.mm.bing.net/th?id=OIP.xaHXe_a6UBoD6PRuYKUosAD6D6&pid=Api&P=0&h=180.jpg');
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-size: cover;
+    margin: 0;
+}
